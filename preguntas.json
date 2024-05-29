@@ -1,0 +1,54 @@
+
+[
+
+    ["01", 1, 1, "¿Cómo podría la igualdad en la Constitución Española influir en la regulación de los algoritmos de IA?", "Asegurando que los algoritmos no discriminen a ningún valor.", "Permitiendo que los algoritmos funcionen sin supervisión.", "Exigiendo que los algoritmos prioricen la eficiencia sobre los valores."],
+    ["01", 2, 3, "¿Cómo puede la implementación de IA en el ámbito político afectar la percepción de la diversidad política en España?", "Limitando la diversidad al favorecer ciertos grupos.", "No tiene ningún impacto en la diversidad política.", "Fomentando la pluralidad al ofrecer plataformas equitativas de expresión."],
+    
+    ["03", 1, 2, "¿Cómo podría influir en el desarrollo de tecnologías de IA multilingües?", "Permitiendo que solo soporten el castellano.", "Exigiendo que soporten todas las lenguas oficiales del país.", "Ignorando la diversidad lingüística en las tecnologías de IA."],
+    ["03", 2, 1, "Para conservar la oficialidad de la lengua, ¿Se debe vigilar en qué lengua se formula la IA?", "í, para usar una lengua oficial.", "No hay lenguas oficiales, todas las del mundo lo son.", "Depende de con quién hables."],
+    
+    ["09", 1, 1, "¿Cómo podría influir en la regulación del uso de IA para asegurar la participación ciudadana?", "Requiriendo que las plataformas de IA sean accesibles y justas para todos los ciudadanos.", "Permitiendo que solo algunas personas usen plataformas de IA.", "No regulando las plataformas."],
+    ["09", 2, 3, "¿Cómo puede el uso de IA en la administración pública afectar la percepción de justicia y transparencia en España?", "Incrementando los abusos de poder y la falta de transparencia.", "No tiene ningún impacto en la percepción de justicia y transparencia.", "Mejorando la transparencia y reduciendo los abusos de poder."],
+    
+    ["10", 1, 2, "¿Cómo podría la constitución influir en la creación de leyes de IA para proteger la dignidad que tienen los humanos?", "Permitiendo que las IA operen como quieran.", "Exigiendo que las leyes respeten los derechos humanos y la dignidad.", "Ignorando la dignidad humana según conveniencia."],
+    ["10", 2, 1, "¿Cómo puede el uso de IA afectar la interpretación y aplicación de los derechos humanos en el país?", "Asegurando que las decisiones basadas en IA respeten los derechos humanos.", "Permitiendo violaciones de los derechos humanos por decisiones automatizadas cuando sea necesario.", "No tiene nada a ver con la interpretación de los derechos humanos."],
+    
+    
+    ["12", 1, 3, "¿Se tiene que vigilar con el contenido que se usa en la IA con la edad del usuario?", "No, no hace falta.", "Depende de la zona.", "Sí, vigilando con la mayoría de edad legal."],
+    ["12", 2, 1, "¿Cómo puede la IA afectar la percepción de los derechos y responsabilidades de los menores en España?", "Proporcionando contenido adecuado para menores y restringiendo acceso inapropiado.", "Tratar a los menores como adultos sin restricciones.", "No tiene ningún impacto en los derechos de los menores."],
+    
+    
+    ["14", 1, 2, "¿Cómo puede influir la Constitución en la regulación de IA para garantizar la igualdad ante la ley?", "Sin restringir la IA.", "Exigiendo que las IA no discriminen por origen, raza, género, religión u otras características", "Ignorando la necesidad de igualdad en las interacciones."],
+    ["14", 2, 1, "¿En qué caso la IA en la administración pública podría afectar la igualdad ante la ley en el país?", "Asegurando un trato justo para todos los ciudadanos.", "Incrementando la discriminación por características personales dependiendo de quién.", "No tiene ninguna relación"],
+    
+    ["15", 1, 3, "¿Cómo se podría asegurar la seguridad para prevenir el maltrato?", "Permitiendo que las IA se usen sin restricciones en interrogatorios.", "Ignorando la IA en la seguridad y justicia.", "Exigiendo que las IA respeten los derechos humanos y no faciliten torturas ni malos tratos."],
+    ["15", 2, 2, "¿Cómo puede el uso de IA en la seguridad afectar la prohibición de tortura y malos tratos?", "Facilitando métodos de tortura mediante automatización.", "Garantizando que las prácticas de seguridad sean éticas y respeten los derechos humanos.", "No tiene ningún impacto."],
+    
+    ["16", 1, 1, "¿Cómo se puede proteger la libertad de creencias?", "Asegurando que las IA respeten todas las creencias y no impongan ninguna.", "Permitiendo que las IA promuevan la religión oficial del país.", "Ignorando la libertad de creencias en las interacciones."],
+    ["16", 2, 1, "¿Cómo puede usar IA en plataformas de información afectar la práctica de creencias?", "Facilitando el acceso a información sobre diversas creencias y respetando la libertad religiosa.", "Limitando la información a la creencia oficial.", "No tiene ningún impacto."],
+    
+    ["17", 1, 2, "¿Cómo puede la Constitución regular la IA para garantizar la libertad y seguridad de las personas?", "Permitiendo que las IA limiten la libertad y seguridad según sus criterios.", "Exigiendo que las IA respeten y protejan la libertad y seguridad de todos.", " Ignorando la necesidad de proteger la libertad."],
+    ["17", 2, 3, "¿Cómo puede usar IA en sistemas de vigilancia afectar la percepción de libertad y seguridad?", "Restringiendo la libertad al incrementar la vigilancia excesiva.", "No tiene ningún impacto.", "Mejorando la seguridad sin comprometer la libertad."],
+    
+    
+    ["18", 1, 1, "¿Cómo se puede regular la IA para proteger la privacidad y el honor de las personas?", "Haciendo que la IA proteja la privacidad y el honor de todos.", "Ignorando ciertos colectivos.", "Todo depende de la situación."],
+    ["18", 2, 1, "¿En qué caso la IA incumpliría la ley en cuanto a dar datos sobre una persona?", "Dando información sobre la vivienda de alguién a terceros, sin permiso.", "No puede incumplir la ley.", "Puede dar datos libremente, si los tiene."],
+    
+    ["19", 1, 3, "¿Cómo podría se puede garantizar la libertad de movimiento con IA?", "Ignorando la protección de la libertad de movimiento.", "Permitiendo que los sistemas de IA restrinjan la movilidad sin justificación.", "Haciendo que los sistemas de IA no limiten la libertad de movimiento por razones políticas o ideológicas."],
+    ["19", 2, 2, "¿Cómo puede la IA afectar en la gestión de fronteras afectar la libertad de movimiento en España?", "Imponiendo restricciones arbitrarias por razones políticas.", "Facilitando el control justo y respetando el derecho a entrar y salir del país.", "No tiene ningún impacto."],
+    
+    ["20", 1, 1, "¿Cómo podemos ayudarnos de la Constituaicón para garantizar la libertad de expresión y creación en la IA?", "Haciendo que la IA permitan la libre expresión y creación sin censura previa.", "Permitiendo que las IA restrinjan la expresión y creación según sus criterios.", "Ignorando la necesidad de proteger la libertad de expresión y creación en el uso de IA."],
+    ["20", 2, 3, "¿Cómo podría el uso de IA en los medios de comunicación afectar la libertad de información en España?", "No tiene ningún impacto en este caso.", "Fomentando la difusión de información falsa y excluyendo ciertos grupos.", "Haciendo que la información sea verdadera y accesible a todos los grupos."],
+    
+    ["24", 1, 2, "¿Cómo podría la Constitución influir en la regulación de IA para garantizar el acceso a la justicia?", "Mirando a quién se le da acceso y a quién no.", "Requiriendo que las IA faciliten el acceso a la justicia para todos, sin exclusión.", "Esto no tiene nada que ver con la IA."],
+    ["24", 2, 3, "¿Cómo puede el uso de IA en el sistema judicial mejorar la protección de los derechos de las personas?", "Esto sólo se puede hacer estudiando derecho.", "Creando barreras que dificulten el acceso a los tribunales.", "Automatizando procesos para que todos tengan acceso rápido y justo a la justicia."],
+    
+    ["25", 1, 1, "¿Cómo podemos regular la IA para asegurar que las personas no sean castigadas injustamente?", "Obligando que las IA no castiguen acciones que no eran ilegales cuando se realizaron.", "Permitiendo que las IA impongan sanciones retroactivas.", "Ignorando la legalidad de las acciones en el uso de IA."],
+    ["25", 2, 3, "¿Cómo puede la IA ayudar en el sistema legal para garantizar que nadie sea castigado por algo que no era ilegal en su momento?", "No tiene ningún impacto en la aplicación retroactiva de las leyes.", "Permitiendo que las decisiones de IA se basen en leyes posteriores.", "Asegurando que las decisiones de IA se basen en las leyes vigentes en el momento del acto."],
+    
+    ["53", 1, 1, "¿Cómo podemos influir en la regulación de IA para asegurar que los derechos y libertades sean respetados por los sistemas de IA?", "Estableciendo que las IA deben operar dentro del marco legal que protege los derechos fundamentales.", "Dejando la regulación de IA completamente a criterio de las empresas tecnológicas.", "Permitiendo que las IA operen sin considerar los derechos fundamentales."],
+    ["53", 2, 2, "¿Cómo puede la adopción de IA en el gobierno influir en la aplicación y protección de los derechos y libertades?", "Creando sistemas que pueden potencialmente ignorar los derechos y libertades individuales.", "Facilitando la vigilancia y cumplimiento de los derechos fundamentales mediante herramientas automatizadas.", "No tiene ningún impacto en la protección de los derechos y libertades."]
+    
+    
+    ]
+    
